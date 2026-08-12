@@ -1,0 +1,17 @@
+[PASS] test_RoundTripNoFreeValue() (gas: 201028)
+  virtual WBNB reserve (headline TVL basis): 834000000066319811044
+  round trip REVERTED: swept-dry pool refused to release virtual WBNB (no extraction)
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 1.13s (498.71ms CPU time)
+[PASS] test_BurnLockedPairReverts() (gas: 19096)
+  liquidityLocked (timestamp): 115792089237316195423570985008687907853269984665640564039457584007913129639935
+[PASS] test_CannotDrainVirtualWBNB() (gas: 37516)
+  virtual reserve0 (WBNB): 834000000066319811044
+  real WBNB balance in pair: 66319811044
+  sweptAmount: 834000000000000000000
+[PASS] test_FreeSwapOutReverts() (gas: 78439)
+[PASS] test_SkimYieldsOnlyDust() (gas: 63810)
+  WBNB gained via skim (wei): 0
+  ROOT gained via skim (wei): 0
+[PASS] test_UnprivilegedSweepReverts() (gas: 18790)
+[PASS] test_UnprivilegedUnsweepReverts() (gas: 18583)
+Suite result: ok. 6 passed; 0 failed; 0 skipped; finished in 1.27s (1.62s CPU time)
