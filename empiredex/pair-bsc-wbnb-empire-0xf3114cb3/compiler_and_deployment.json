@@ -1,0 +1,32 @@
+{
+  "contractName": "EmpirePair",
+  "fullyQualifiedName": "/contracts/dex/EmpirePair.sol:EmpirePair",
+  "compiler": "solc",
+  "compilerVersion": "0.6.8+commit.0bbfe453",
+  "language": "Solidity",
+  "compilerSettings": {
+    "metadata": {
+      "bytecodeHash": "ipfs"
+    },
+    "libraries": {},
+    "optimizer": {
+      "runs": 200,
+      "enabled": true
+    },
+    "evmVersion": "istanbul",
+    "remappings": []
+  },
+  "match": "match",
+  "creationMatch": "match",
+  "runtimeMatch": "match",
+  "verifiedAt": "2026-05-26T18:33:40Z",
+  "chainId": "56",
+  "address": "0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f",
+  "deployment": {
+    "transactionHash": "0x04ffdd0b14fb486e39b6191382b92efc3337bbcc3b1c8517533e0fc945533bfb",
+    "blockNumber": "9837106",
+    "transactionIndex": "60",
+    "deployer": "0xf8F595b5Fd17D4C64F5dfe5ed4C32b8e15E198fd"
+  },
+  "sourceVerifiedVia": "Sourcify v2 API (sourcify.dev/server)"
+}

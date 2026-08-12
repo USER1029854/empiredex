@@ -1,0 +1,58 @@
+{
+  "factory_main": {
+    "bsc": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "fantom": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "avax": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "polygon": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "xdai": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "cronos": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    },
+    "kava": {
+      "len": 26596,
+      "sha256": "458637f12015a8da8cff750e06852a600b5965d8e94f7d33e132d59c7939662f"
+    }
+  },
+  "router_main": {
+    "bsc": {
+      "len": 36416,
+      "sha256": "b870b626368e4b8a56a1f186e9240ab2d2963416daa2da4173aa4225279d4343"
+    },
+    "fantom": {
+      "len": 36416,
+      "sha256": "782c7a516c92e64805397d9c1cbb002a5f8ad734e3690462b57f1e7874b35fdb"
+    },
+    "avax": {
+      "len": 36416,
+      "sha256": "9137122797b5f759fec5258501ec7cc6c36eff53dab38987d03cf609d04cf79e"
+    },
+    "xdai": {
+      "len": 36416,
+      "sha256": "754723f2d47b8175db4be506a1fbb231acc337868c33d32292b1ec403a281615"
+    },
+    "cronos": {
+      "len": 36416,
+      "sha256": "0d19098bf570cba52649fe453abc676c00406ad4a5c40e6de2ba77ec35474369"
+    },
+    "kava": {
+      "len": 36416,
+      "sha256": "b136e94ac3219e179ddad5257b38d130f13aefde630ea3f58cc22a9bf0d1a1ab"
+    }
+  }
+}

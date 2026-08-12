@@ -1,0 +1,690 @@
+{
+  "ethereum": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 21260
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 131117156100000,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 78170129310000,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 123282690951000,
+      "code_len": 2
+    }
+  },
+  "bsc": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 22594
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 1187173169570511,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    }
+  },
+  "polygon": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 19790
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 47535126177000,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 979574020000000000,
+      "code_len": 2
+    }
+  },
+  "avax": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 19790
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 183750000000000,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 183750000000000,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 182755210911070736,
+      "code_len": 2
+    }
+  },
+  "fantom": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 19790
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 999795088421088340,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 141629514600000000,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 4469778738731500000,
+      "code_len": 2
+    }
+  },
+  "cronos": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 19612
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 20578
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 9982373332887373005,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 36477999939570000,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 2134560105040224682,
+      "code_len": 2
+    }
+  },
+  "xdai": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 19790
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 2693031273018987211,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 21000,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 998734670001641712,
+      "code_len": 2
+    }
+  },
+  "kava": {
+    "factory_main": {
+      "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+      "is_contract": true,
+      "native_balance_wei": 2000000000000,
+      "code_len": 26596
+    },
+    "factory_eth": {
+      "address": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "router_main": {
+      "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 36416
+    },
+    "router_polygon": {
+      "address": "0xB2855A6dAeeBDB72B0176A479A983066ae9775A6",
+      "is_contract": true,
+      "native_balance_wei": 0,
+      "code_len": 5844
+    },
+    "router_eth": {
+      "address": "0xe7A504316BebbE540496E29798187c9ECAD6ef4F",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "escrow_a": {
+      "address": "0x38F73653fA46943de76c228a47b7d9B81F28FFff",
+      "is_contract": true,
+      "native_balance_wei": 2000000000000,
+      "code_len": 3826
+    },
+    "escrow_b": {
+      "address": "0x9fF555DDEbD500C0F1fa7C898dCbdb7CCa6809FC",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_main": {
+      "address": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_eth": {
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "token_cro_alt": {
+      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "empire_team": {
+      "address": "0x5ABBd94bb0561938130d83FdA22E672110e12528",
+      "is_contract": false,
+      "native_balance_wei": 999956967000000000,
+      "code_len": 2
+    },
+    "marketing_team": {
+      "address": "0xA581289F88A2cC9D40ad990F5773c9e6973bc756",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "omniscia_team": {
+      "address": "0x21cfe244fEe27Dcf77c9555A24075fdf0930d656",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    },
+    "reward_treasury": {
+      "address": "0x3F9B7da1d832199b2dD23670F2623193636f2e88",
+      "is_contract": false,
+      "native_balance_wei": 0,
+      "code_len": 2
+    }
+  }
+}

@@ -1,0 +1,1726 @@
+{
+  "bsc": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 40,
+    "pairs": [
+      {
+        "pair": "0x15443197c97009737e8e9fe3eac321affcba65c1",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "reserve0": 665559979480176385,
+        "reserve1": 407529251256786698119,
+        "totalSupply": 14850231492792040364
+      },
+      {
+        "pair": "0xf3114cb351f38f8e8ff17f8313ff91cec4ff196f",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 698692164984322409765,
+        "reserve1": 7202711616297722315152,
+        "totalSupply": 2235612011891024365215
+      },
+      {
+        "pair": "0x6a38723e0acb329c887ed9f180d0e3913aef4ddc",
+        "token0": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 25389967557032111889,
+        "reserve1": 41445097209457882,
+        "totalSupply": 962784056143834205
+      },
+      {
+        "pair": "0xec08e44232d7385472b4e1d374dea7d7b780d5dc",
+        "token0": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "reserve0": 62159664073604326603,
+        "reserve1": 62226815150323378154,
+        "totalSupply": 61947312067601286276
+      },
+      {
+        "pair": "0x424ee77418c492b9861a3796402ffb22136a5863",
+        "token0": "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 2913891451417965198490,
+        "reserve1": 1379969486304028979,
+        "totalSupply": 60416876911962131376
+      },
+      {
+        "pair": "0x6688349f8e74c03c422f79254e8126280be5e484",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xf3114cb351f38f8e8ff17f8313ff91cec4ff196f",
+        "reserve0": 831570611564355582,
+        "reserve1": 201094466502913426,
+        "totalSupply": 393142021689390448
+      },
+      {
+        "pair": "0x571073e1ffcd0879fafa34167a0490ebf9594b52",
+        "token0": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 4483487744488490,
+        "reserve1": 13743652093871826,
+        "totalSupply": 7643591192385250
+      },
+      {
+        "pair": "0x7993d6dccd29d9ddd03c8e6a32791055106ad9b3",
+        "token0": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "reserve0": 2579596617997456,
+        "reserve1": 4925891421072151151,
+        "totalSupply": 108381704456142116
+      },
+      {
+        "pair": "0xe518e01583783b9f240fa02ff451726f13c63381",
+        "token0": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "reserve0": 50760437861554530521,
+        "reserve1": 50683732650812310454,
+        "totalSupply": 50623726551615881658
+      },
+      {
+        "pair": "0x8175a6c23009b31cb46a7bcdd9c13a300da2cd95",
+        "token0": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 168760186270624,
+        "reserve1": 17621039911338871,
+        "totalSupply": 1590715345635323
+      },
+      {
+        "pair": "0xb1326f3c4eb110d46871bcffc5aade7a6454cd37",
+        "token0": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "reserve0": 1921842011116589,
+        "reserve1": 122251970486023537060,
+        "totalSupply": 467221617655577177
+      },
+      {
+        "pair": "0xadb7a32bbc7eef58ca1a60ca1256f028603b01c9",
+        "token0": "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 359170163338065658169,
+        "reserve1": 11914293068506516109,
+        "totalSupply": 63160743114172401621
+      },
+      {
+        "pair": "0x05e68a71a489bb96de3b7da7440ece8d0a326853",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d",
+        "reserve0": 241778301588430734,
+        "reserve1": 120983631265219115340286106,
+        "totalSupply": 5286848640397893036967
+      },
+      {
+        "pair": "0x272f05b7c13bc1a1ef561c004dfe510d051c7bcc",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d",
+        "reserve0": 22233362183737034,
+        "reserve1": 162012166571293441146285,
+        "totalSupply": 59492697397447275987
+      },
+      {
+        "pair": "0x21e27c5da72d5653ea65af7d2b63ec1c78aff21e",
+        "token0": "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096",
+        "token1": "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d",
+        "reserve0": 59963383411910898,
+        "reserve1": 14797302635299454999551,
+        "totalSupply": 29542688875915216487
+      },
+      {
+        "pair": "0x3f3b8b3dd84135a61b816e31eadd20374eba4834",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xd6ca9451bba47e26706a701ae05be45a712d4b1b",
+        "reserve0": 5757739569221555302,
+        "reserve1": 27429890304581465125823845446,
+        "totalSupply": 394603123551680301954457
+      },
+      {
+        "pair": "0x0f0b45f680b49408649d42f6ac887469169ec97e",
+        "token0": "0x714f28f938c64ac7d5d26fdaeac669644fe1c1ec",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 100000000000000000000000,
+        "reserve1": 240000000000000000,
+        "totalSupply": 154919333848296675407
+      },
+      {
+        "pair": "0x6385e69bdf21d0033aecbe63e0c5729ba03275b4",
+        "token0": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 26512840044716447,
+        "reserve1": 64887278791163,
+        "totalSupply": 1281284326521407
+      },
+      {
+        "pair": "0x9ac9e607f479471c960f3a8b74a244dd4a8e5753",
+        "token0": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "0x90727c1195fb2246fd758172f9253873790d06a4",
+        "reserve0": 75478165297797,
+        "reserve1": 26999350198767809,
+        "totalSupply": 1414213562373095
+      },
+      {
+        "pair": "0x0d3e6df10d88ba11b738dc41290a4829505d8c37",
+        "token0": "0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 16986681411660345190,
+        "reserve1": 176126156002891858,
+        "totalSupply": 1514765728271618243
+      },
+      {
+        "pair": "0x47d2db6885017c9ca4eb72fcdd358d9c16515fed",
+        "token0": "0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 1133634034963752834,
+        "reserve1": 836555366535038851,
+        "totalSupply": 850578929519660592
+      },
+      {
+        "pair": "0xda8158e10a3281dc17af4a04dd6735710db4427f",
+        "token0": "0x299899a16df8a7bcddd176913737f19782958c76",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 352056950696568226906823651247,
+        "reserve1": 229032409760790719,
+        "totalSupply": 280167242838751752040604
+      },
+      {
+        "pair": "0xba05498d6915c67e6171f6fdcec08cb6c87600b1",
+        "token0": "0x299899a16df8a7bcddd176913737f19782958c76",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 303131308,
+        "reserve1": 1,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0x6649f92278cffa7d5a9f6a3b0e9533eb4e943144",
+        "token0": "0x06da2d6851fcce1162fdc96fd8d1061581e7b7eb",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 25054382178612187,
+        "reserve1": 65472,
+        "totalSupply": 40327410033
+      },
+      {
+        "pair": "0xc9cabe140ccb1c2d0daaacf9466e19b288b3606e",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xce1db03de797ffb5bfe98e3903f2cbec841b26f8",
+        "reserve0": 9877918906818039,
+        "reserve1": 355635974424118,
+        "totalSupply": 1874233176528470
+      },
+      {
+        "pair": "0x05f291f0b4b3a9b53bb4cd99984802bd75593771",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xe5e33d3fff677218be30b33df5906f53b426875c",
+        "reserve0": 10283627139131940,
+        "reserve1": 6749837799851813,
+        "totalSupply": 8243280177252433
+      },
+      {
+        "pair": "0x9ca805abca2af73813cae56b782d6dd91dff89a4",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xe5e33d3fff677218be30b33df5906f53b426875c",
+        "reserve0": 98082275743156364,
+        "reserve1": 922262814155220,
+        "totalSupply": 9425416251920483
+      },
+      {
+        "pair": "0x3af4cf7953cab46a1b4af5f483c2ac81b994777e",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xf2f9889e797d2aaddc234f4f3027c62c28165af4",
+        "reserve0": 834000000066319811044,
+        "reserve1": 112361226709576610599,
+        "totalSupply": 303224615802768392640
+      },
+      {
+        "pair": "0xb496aa58e1060e9cafefd5a4bf719aaf9f4fd5e1",
+        "token0": "0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69",
+        "token1": "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55",
+        "reserve0": 10004,
+        "reserve1": 101,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0x853234fc2b9dad5cf404e82bd8c98422f9cedba5",
+        "token0": "0x8fb1a59ca2d57b51e5971a85277efe72c4492983",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 32362739,
+        "reserve1": 3120043231733,
+        "totalSupply": 10000000000
+      },
+      {
+        "pair": "0x90aa71019c56230b5f935b59d9887a90f3cb089a",
+        "token0": "0x1759254eb142bcf0175347d5a0f3c19235538a9a",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 4707700949705837447,
+        "reserve1": 205387349359406,
+        "totalSupply": 31033852484021380
+      },
+      {
+        "pair": "0xc1616531a122171f13678445d682942fd77d39ab",
+        "token0": "0x86fd6eec8fb0dc6cb0d00010b9ee93ff39d2a775",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 901171220917896441275,
+        "reserve1": 11100000000000000,
+        "totalSupply": 3162277660168379331
+      },
+      {
+        "pair": "0x2f855b1c942f361bd75db4d47e979a508870a679",
+        "token0": "0x70d51744f23fe5c80c90769e172a1c99a2d02d89",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x3d213903ae906a061703a4e363162cb35899a39e",
+        "token0": "0x6460d09165c8e25a44e4fa487171f6613e93abd3",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 103812886817585414011,
+        "reserve1": 33737559477856991795,
+        "totalSupply": 58993615057904251195
+      },
+      {
+        "pair": "0xb1ba397a2d3a84436c5cbbdfa6bb6d78812e62af",
+        "token0": "0x58501f920caa9f500f55d7074e0cf2aa09cac9e7",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 999000000000000000000000,
+        "reserve1": 1001004013040121366,
+        "totalSupply": 1000000000000000000000
+      },
+      {
+        "pair": "0xf6620ed2dca67a86bf568c89e3e0dd6643316cc7",
+        "token0": "0x0cfdabaad00c2e97f6d963617ca9c7f2e9c5bbac",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 1000000000000000000000000,
+        "reserve1": 1000000000000000,
+        "totalSupply": 31622776601683793319
+      },
+      {
+        "pair": "0xda43e667769dfeb57e3e7f981f224465af3276dd",
+        "token0": "0xa405ba3af70667f156ea0c881a66b16a2b11ced0",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0xcc296f7956fbff41cdab5ad868a2146a1c7824b2",
+        "token0": "0xaf27e8cda55b420e6c0b24c2c5c62c13e42cf6db",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0xc500ec4d1e0ea80af0236ef02d889b6d881ff204",
+        "token0": "0x6b231fff51ecb2a71963ab33bc84a9080e32c530",
+        "token1": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x7cc694f1f4d9fddabb7f7942b83a3bbd2fcb0a22",
+        "token0": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      }
+    ],
+    "tokenMeta": {
+      "0x06da2d6851fcce1162fdc96fd8d1061581e7b7eb": {
+        "symbol": "AKA21",
+        "decimals": 8
+      },
+      "0x0cfdabaad00c2e97f6d963617ca9c7f2e9c5bbac": {
+        "symbol": "aa",
+        "decimals": 18
+      },
+      "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
+        "symbol": "Cake",
+        "decimals": 18
+      },
+      "0x1759254eb142bcf0175347d5a0f3c19235538a9a": {
+        "symbol": "upBNB",
+        "decimals": 18
+      },
+      "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "0x299899a16df8a7bcddd176913737f19782958c76": {
+        "symbol": "NJOY",
+        "decimals": 18
+      },
+      "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096": {
+        "symbol": "bPRISM",
+        "decimals": 18
+      },
+      "0x55d398326f99059ff775485246999027b3197955": {
+        "symbol": "USDT",
+        "decimals": 18
+      },
+      "0x58501f920caa9f500f55d7074e0cf2aa09cac9e7": {
+        "symbol": "YY",
+        "decimals": 18
+      },
+      "0x6460d09165c8e25a44e4fa487171f6613e93abd3": {
+        "symbol": "FF",
+        "decimals": 18
+      },
+      "0x6b231fff51ecb2a71963ab33bc84a9080e32c530": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0x70d51744f23fe5c80c90769e172a1c99a2d02d89": {
+        "symbol": "FF",
+        "decimals": 18
+      },
+      "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c": {
+        "symbol": "BTCB",
+        "decimals": 18
+      },
+      "0x714f28f938c64ac7d5d26fdaeac669644fe1c1ec": {
+        "symbol": "RELOAD",
+        "decimals": 18
+      },
+      "0x86fd6eec8fb0dc6cb0d00010b9ee93ff39d2a775": {
+        "symbol": "FF",
+        "decimals": 18
+      },
+      "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
+        "symbol": "USDC",
+        "decimals": 18
+      },
+      "0x8fb1a59ca2d57b51e5971a85277efe72c4492983": {
+        "symbol": "DAF",
+        "decimals": 6
+      },
+      "0x90727c1195fb2246fd758172f9253873790d06a4": {
+        "symbol": "ETA",
+        "decimals": 9
+      },
+      "0xa405ba3af70667f156ea0c881a66b16a2b11ced0": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69": {
+        "symbol": "ADMC",
+        "decimals": 9
+      },
+      "0xaf27e8cda55b420e6c0b24c2c5c62c13e42cf6db": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
+        "symbol": "WBNB",
+        "decimals": 18
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xc84d8d03aa41ef941721a4d77b24bb44d7c7ac55": {
+        "symbol": "ECC",
+        "decimals": 9
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d": {
+        "symbol": "DOLPH",
+        "decimals": 18
+      },
+      "0xce1db03de797ffb5bfe98e3903f2cbec841b26f8": {
+        "symbol": "COG",
+        "decimals": 9
+      },
+      "0xd6ca9451bba47e26706a701ae05be45a712d4b1b": {
+        "symbol": "ADAFlect",
+        "decimals": 18
+      },
+      "0xe5e33d3fff677218be30b33df5906f53b426875c": {
+        "symbol": "MetaBC",
+        "decimals": 9
+      },
+      "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+        "symbol": "BUSD",
+        "decimals": 18
+      },
+      "0xf2f9889e797d2aaddc234f4f3027c62c28165af4": {
+        "symbol": "ROOT",
+        "decimals": 18
+      },
+      "0xf3114cb351f38f8e8ff17f8313ff91cec4ff196f": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      }
+    }
+  },
+  "fantom": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 17,
+    "pairs": [
+      {
+        "pair": "0xbd1385c6105b7568bbfa72f772617346b5dd5864",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x9a37a93bfebda0ec11a370d81bea0e2f7c923890",
+        "reserve0": 10102000000000000000,
+        "reserve1": 99291016417496898927,
+        "totalSupply": 31622776601683793319
+      },
+      {
+        "pair": "0xe2e1ed606597d70801f54317adad84e92294918b",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x9c253a968b322b235cd5090c8445ebaaf647860e",
+        "reserve0": 900000000000000,
+        "reserve1": 5000000000000000000000,
+        "totalSupply": 2121320343559642573
+      },
+      {
+        "pair": "0xadf91b184608e6915fa892fa979604e440352bcd",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 952048963053850078315,
+        "reserve1": 1052627637180208551741,
+        "totalSupply": 980493628884294648713
+      },
+      {
+        "pair": "0xc644d16d607b921ed12b2fe2f22e7cfadc3e0742",
+        "token0": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+        "token1": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "reserve0": 1229501,
+        "reserve1": 1239575343006067150,
+        "totalSupply": 1196361064645
+      },
+      {
+        "pair": "0x0e3fe2a0528d94abd885716e6daacb8860235761",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x51a4036022a222188b1f9a2438da1bc98b3e81d4",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x1218a2f1ce880c01d174c6b1aeb7f2115a152fa1",
+        "token0": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+        "token1": "0xf43cc235e686d7bc513f53fbffb61f760c3a1882",
+        "reserve0": 273485193,
+        "reserve1": 22755645944733259,
+        "totalSupply": 2265055407710
+      },
+      {
+        "pair": "0xc12a874065b52926f89f29253744c15bc37eaf0b",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 134262628844443430927772,
+        "reserve1": 4825362972782175153171,
+        "totalSupply": 25416196319976447828153
+      },
+      {
+        "pair": "0x2703f8eb09b1d6d3dc5727329e8f17e58146b49b",
+        "token0": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+        "token1": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "reserve0": 1201574382,
+        "reserve1": 2011744429020073854419,
+        "totalSupply": 42242028984357
+      },
+      {
+        "pair": "0xb7f9f3450e975ecbca458a83a940d14bb48cfe31",
+        "token0": "0xc12a874065b52926f89f29253744c15bc37eaf0b",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 100078828417216842361,
+        "reserve1": 28787508202700601408,
+        "totalSupply": 52186549452992803567
+      },
+      {
+        "pair": "0xb773731f5c2425167edf2384fca215f02565ddde",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 3219626367828570725,
+        "reserve1": 99010109467553100574,
+        "totalSupply": 17679984438491687796
+      },
+      {
+        "pair": "0xaadaa2844921ecbb1f74c2900fbc383dbfb493c8",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+        "reserve0": 138818585620305717223,
+        "reserve1": 336448819724317604,
+        "totalSupply": 6405923950021789538
+      },
+      {
+        "pair": "0x953026527b56a4975329e6207774fee676aa74da",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x321162cd933e2be498cd2267a90534a804051b11",
+        "reserve0": 45058188534880548131,
+        "reserve1": 321278,
+        "totalSupply": 3514212870208
+      },
+      {
+        "pair": "0x2e8fba70d5d475d2653be689931786d36d0cfa1c",
+        "token0": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 36102694951383757,
+        "reserve1": 16283436835583664718,
+        "totalSupply": 741565031641303699
+      },
+      {
+        "pair": "0x2711b360898e09cc16ad1f0edfb73335dadd1079",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+        "reserve0": 114388779243128162,
+        "reserve1": 51336843546924850245,
+        "totalSupply": 2383920727453875090
+      },
+      {
+        "pair": "0x1808f13319ab4236f2748e1f693e7c87cc327fb6",
+        "token0": "0x090c23b3b12bbb6258caffa6b944efe84d2b11bc",
+        "token1": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0xd87e886448d78c6598863bc0cf3441f66f8d53ec",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0x7468dce72f2044f7ca4a10453e9fe0597a7d8cd1",
+        "reserve0": 3021691513323402518,
+        "reserve1": 7148699899999000000000000000000,
+        "totalSupply": 4898979485566356196394568
+      },
+      {
+        "pair": "0x93962674268d1218d7574e0222694c7127018561",
+        "token0": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      }
+    ],
+    "tokenMeta": {
+      "0x04068da6c83afcfa0e13ba15a6696662335d5b75": {
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "0x049d68029688eabf473097a2fc38ef61633a3c7a": {
+        "symbol": "fUSDT",
+        "decimals": 6
+      },
+      "0x090c23b3b12bbb6258caffa6b944efe84d2b11bc": {
+        "symbol": "e",
+        "decimals": 18
+      },
+      "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": {
+        "symbol": "WFTM",
+        "decimals": 18
+      },
+      "0x321162cd933e2be498cd2267a90534a804051b11": {
+        "symbol": "BTC",
+        "decimals": 8
+      },
+      "0x51a4036022a222188b1f9a2438da1bc98b3e81d4": {
+        "symbol": "testFDEX",
+        "decimals": 18
+      },
+      "0x7468dce72f2044f7ca4a10453e9fe0597a7d8cd1": {
+        "symbol": "M",
+        "decimals": 18
+      },
+      "0x74b23882a30290451a17c44f4f05243b6b58c76d": {
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "0x9a37a93bfebda0ec11a370d81bea0e2f7c923890": {
+        "symbol": "EMPIRE_FTM",
+        "decimals": 18
+      },
+      "0x9c253a968b322b235cd5090c8445ebaaf647860e": {
+        "symbol": "fEDEX",
+        "decimals": 18
+      },
+      "0xc12a874065b52926f89f29253744c15bc37eaf0b": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      },
+      "0xc5e2b037d30a390e62180970b3aa4e91868764cd": {
+        "symbol": "TAROT",
+        "decimals": 18
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "eFDEX",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xd46df541148932690b81092f600f35208afd4325": {
+        "symbol": "fPRISM",
+        "decimals": 18
+      },
+      "0xf43cc235e686d7bc513f53fbffb61f760c3a1882": {
+        "symbol": "ELITE",
+        "decimals": 18
+      }
+    }
+  },
+  "avax": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 14,
+    "pairs": [
+      {
+        "pair": "0x6e1f3c7a2f2d388bda44b311236aff244bf68904",
+        "token0": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "token1": "0xc4682e106f76b9a99dae0f971704eea60f5cf9af",
+        "reserve0": 1000000000001,
+        "reserve1": 31622777000031622777,
+        "totalSupply": 1000000000001000
+      },
+      {
+        "pair": "0x09e7bff9efe20471c79e8acaadc9713a43788330",
+        "token0": "0x9888b4470f7b3494572ad491f24717c6a1efe1b7",
+        "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "reserve0": 1082414571361133460704,
+        "reserve1": 21062585892905769719,
+        "totalSupply": 149312172979968381411
+      },
+      {
+        "pair": "0x63a8d40d4c677cde46eecf954ea4eb4359e695ef",
+        "token0": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "reserve0": 1606425,
+        "reserve1": 251141626477863650,
+        "totalSupply": 615476644560
+      },
+      {
+        "pair": "0x502be733baad680045b867e5b521b15c141ba690",
+        "token0": "0x28fb9aa8ec87542af20e7822c3d91cb8287d797c",
+        "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "reserve0": 5001000000000000000000,
+        "reserve1": 899820575777191,
+        "totalSupply": 2121320343559642573
+      },
+      {
+        "pair": "0x80832376db4e414c88629c54923aecb9855346c0",
+        "token0": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 1188712246528826472120,
+        "reserve1": 2227774114002360939841,
+        "totalSupply": 1621921134752248396736
+      },
+      {
+        "pair": "0x81722774c920dbcd4548aa6d18652f07a971cbae",
+        "token0": "0x37954a6f74261ae998c8ecc40424f7e5822eaee2",
+        "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "reserve0": 9379994418905374054887,
+        "reserve1": 152158134803737435285,
+        "totalSupply": 316227766016837933199
+      },
+      {
+        "pair": "0x44e12ca76960c516b3bd01509787af67a9437661",
+        "token0": "0x80832376db4e414c88629c54923aecb9855346c0",
+        "token1": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "reserve0": 1523,
+        "reserve1": 658,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0xe4b37ef0add9a7532ac513d4637d8fc0f4129d44",
+        "token0": "0x80832376db4e414c88629c54923aecb9855346c0",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 22866466487157422219,
+        "reserve1": 72644802981124539758,
+        "totalSupply": 40554182350596127691
+      },
+      {
+        "pair": "0xed3915ee1587595e81ada81d82c298122b4ae8a9",
+        "token0": "0x9888b4470f7b3494572ad491f24717c6a1efe1b7",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 408582131704100022085,
+        "reserve1": 14766178307459337095,
+        "totalSupply": 77228051211186769968
+      },
+      {
+        "pair": "0x96be123af00673182082c342c82aadf5bb9299a4",
+        "token0": "0x37954a6f74261ae998c8ecc40424f7e5822eaee2",
+        "token1": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+        "reserve0": 85312485675927044,
+        "reserve1": 357313322256863531105,
+        "totalSupply": 5508230436767581620
+      },
+      {
+        "pair": "0xd26614ab3971fb94b9f000f14e7cc3d463c585d1",
+        "token0": "0x37954a6f74261ae998c8ecc40424f7e5822eaee2",
+        "token1": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
+        "reserve0": 3150727065453458209,
+        "reserve1": 759095462199070112609,
+        "totalSupply": 48718896672108776498
+      },
+      {
+        "pair": "0x048f809f407f0f6fc4ff8708bb281fd8b4007847",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
+        "reserve0": 38391537082711,
+        "reserve1": 380900743462233811,
+        "totalSupply": 3740410661543598
+      },
+      {
+        "pair": "0xa8901ac09cc2a04379cc8d7792ba59289204c461",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
+        "reserve0": 4520721079098,
+        "reserve1": 660078118789057266,
+        "totalSupply": 1720910612183347
+      },
+      {
+        "pair": "0xa158366d99e90484902fc00048a0bda715153382",
+        "token0": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      }
+    ],
+    "tokenMeta": {
+      "0x28fb9aa8ec87542af20e7822c3d91cb8287d797c": {
+        "symbol": "testADEX",
+        "decimals": 18
+      },
+      "0x37954a6f74261ae998c8ecc40424f7e5822eaee2": {
+        "symbol": "OcDa",
+        "decimals": 18
+      },
+      "0x80832376db4e414c88629c54923aecb9855346c0": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      },
+      "0x9888b4470f7b3494572ad491f24717c6a1efe1b7": {
+        "symbol": "aPRISM",
+        "decimals": 18
+      },
+      "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
+        "symbol": "USDC.e",
+        "decimals": 6
+      },
+      "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+        "symbol": "WAVAX",
+        "decimals": 18
+      },
+      "0xc4682e106f76b9a99dae0f971704eea60f5cf9af": {
+        "symbol": "MOCKA",
+        "decimals": 18
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "eADEX",
+        "decimals": 18
+      },
+      "0xcc2f1d827b18321254223df4e84de399d9ff116c": {
+        "symbol": "SMRT",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xf9a075c9647e91410bf6c402bdf166e1540f67f0": {
+        "symbol": "SING",
+        "decimals": 18
+      }
+    }
+  },
+  "polygon": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 11,
+    "pairs": [
+      {
+        "pair": "0x34269d49a6bb7ab941f82ce84df623d11a7b789e",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0x401d2222a99eac9b55b549f9087b50c5d5ca0f72",
+        "reserve0": 89999998205400036,
+        "reserve1": 5000000100000000000000,
+        "totalSupply": 21213203435596425732
+      },
+      {
+        "pair": "0xb988bf9071697f233d1e9efe3927b641237d247e",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "reserve0": 17278493792319994488,
+        "reserve1": 1268678,
+        "totalSupply": 4369720600599
+      },
+      {
+        "pair": "0x733cc311ebae030ee877c9ea6eccfbf659c142aa",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 548516651472783061096,
+        "reserve1": 2200988061360133364750,
+        "totalSupply": 1082561118625202525417
+      },
+      {
+        "pair": "0x6d0d97fe6c323e5b3248ceb356dbf74708c2d8be",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 30892072788387821954742,
+        "reserve1": 3754911363093517577033,
+        "totalSupply": 10725860710474169635582
+      },
+      {
+        "pair": "0xb773731f5c2425167edf2384fca215f02565ddde",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 34653763102530573024,
+        "reserve1": 1141977510180719863921,
+        "totalSupply": 197210031239425661173
+      },
+      {
+        "pair": "0x78fb682998adbf7d9a7606aaf762ed23e466dbfa",
+        "token0": "0x6d0d97fe6c323e5b3248ceb356dbf74708c2d8be",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 186696948050195065320,
+        "reserve1": 162986418244808771365,
+        "totalSupply": 173377949748280213208
+      },
+      {
+        "pair": "0x7e9b593e03cb01bbcec3b6b87aca8657f8936fb8",
+        "token0": "0x25addc660f2a51ccd6750f41083b2aad06f600f0",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 567418589965176891839735,
+        "reserve1": 1786045473483514430,
+        "totalSupply": 1003963467860440468335
+      },
+      {
+        "pair": "0xbc2bc26592ae68a2accbce11ec96c35a25c8319f",
+        "token0": "0x4360fb2eb3cd54b23baf33c4b07f23ab36897745",
+        "token1": "0x82a17b56597d4344236cd367098697761f108871",
+        "reserve0": 6025125628140703517,
+        "reserve1": 5970000000000000000,
+        "totalSupply": 5984981202978000996
+      },
+      {
+        "pair": "0x50861243902c2eb07b8028c41f4455f5eb3d13ff",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0x82a17b56597d4344236cd367098697761f108871",
+        "reserve0": 7136506215740074390,
+        "reserve1": 6423558130053842027,
+        "totalSupply": 6756323533470080828
+      },
+      {
+        "pair": "0x928bd369f854d34f7b942859a1769071063fa7c9",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x460629717f18bdf5354f3925d98153a48ad13b94",
+        "token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "token1": "0xf124ed9ec309907808b1fbc6bedb2a76927b3665",
+        "reserve0": 116632913995721241296,
+        "reserve1": 103873932683262881516720,
+        "totalSupply": 3458053700327226342061
+      }
+    ],
+    "tokenMeta": {
+      "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+        "symbol": "WPOL",
+        "decimals": 18
+      },
+      "0x25addc660f2a51ccd6750f41083b2aad06f600f0": {
+        "symbol": "HDLR",
+        "decimals": 18
+      },
+      "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "0x401d2222a99eac9b55b549f9087b50c5d5ca0f72": {
+        "symbol": "testPDEX",
+        "decimals": 18
+      },
+      "0x4360fb2eb3cd54b23baf33c4b07f23ab36897745": {
+        "symbol": "nCROCARMS",
+        "decimals": 18
+      },
+      "0x6d0d97fe6c323e5b3248ceb356dbf74708c2d8be": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      },
+      "0x82a17b56597d4344236cd367098697761f108871": {
+        "symbol": "cMATICalpha",
+        "decimals": 18
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "PDEX",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xd46df541148932690b81092f600f35208afd4325": {
+        "symbol": "pPRISM",
+        "decimals": 18
+      },
+      "0xf124ed9ec309907808b1fbc6bedb2a76927b3665": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      }
+    }
+  },
+  "xdai": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 9,
+    "pairs": [
+      {
+        "pair": "0x0e6de8a5d63374243c31e43f15261f09246f6612",
+        "token0": "0x48fd30e84d19e7339427383aa3fbb9b1977fbdca",
+        "token1": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "reserve0": 414054142513075985439,
+        "reserve1": 108982089713112055,
+        "totalSupply": 6708203932499369089
+      },
+      {
+        "pair": "0xc63c796fa1da50ca5a2c90ca144469fff1140e45",
+        "token0": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+        "token1": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "reserve0": 11506155,
+        "reserve1": 11502912209466528518,
+        "totalSupply": 11301801705927
+      },
+      {
+        "pair": "0x42fcf0a122933efd67ca35c8aef91e7609ad8562",
+        "token0": "0xd46df541148932690b81092f600f35208afd4325",
+        "token1": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "reserve0": 927648553150175237517,
+        "reserve1": 208396820506014234663,
+        "totalSupply": 435880140425763091843
+      },
+      {
+        "pair": "0xf6e0eeefb7acb6d5557d617da1e24873997ab3e9",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "reserve0": 3961291113979608871864,
+        "reserve1": 22931651016363329459863,
+        "totalSupply": 9482229786475819773034
+      },
+      {
+        "pair": "0xb773731f5c2425167edf2384fca215f02565ddde",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 44246573615557365,
+        "reserve1": 1128928777120972659,
+        "totalSupply": 221631778693065800
+      },
+      {
+        "pair": "0xd70a028b42132e55d1c3c6a1890e9c478d559c24",
+        "token0": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "token1": "0xf6e0eeefb7acb6d5557d617da1e24873997ab3e9",
+        "reserve0": 148685006019715370,
+        "reserve1": 184780816238885025,
+        "totalSupply": 164217014746588928
+      },
+      {
+        "pair": "0xcc816d4874b2dc2e6eeb474e575a7415720b1ee9",
+        "token0": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "token1": "0xf6e0eeefb7acb6d5557d617da1e24873997ab3e9",
+        "reserve0": 3163,
+        "reserve1": 317,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0xabb34a8632c75a7e436f1c2534caa9c7f0ac8b44",
+        "token0": "0xd46df541148932690b81092f600f35208afd4325",
+        "token1": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+        "reserve0": 167034498403525156,
+        "reserve1": 37946,
+        "totalSupply": 79129803246
+      },
+      {
+        "pair": "0x5d565e314b42de3e8239b9ce1655194931fdd9ba",
+        "token0": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "token1": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      }
+    ],
+    "tokenMeta": {
+      "0x48fd30e84d19e7339427383aa3fbb9b1977fbdca": {
+        "symbol": "testXD",
+        "decimals": 18
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "XDEX",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xd46df541148932690b81092f600f35208afd4325": {
+        "symbol": "xPRISM",
+        "decimals": 18
+      },
+      "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d": {
+        "symbol": "WXDAI",
+        "decimals": 18
+      },
+      "0xf6e0eeefb7acb6d5557d617da1e24873997ab3e9": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      }
+    }
+  },
+  "cronos": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 44,
+    "pairs": [
+      {
+        "pair": "0x8189e7852d79543e8510262bcee63aa8db768529",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xcf06467d408bdb6e2082268a9c5d7a986c39e9bc",
+        "reserve0": 10753777053231211040,
+        "reserve1": 358007703738308392032,
+        "totalSupply": 62000000000000000380
+      },
+      {
+        "pair": "0xc8c0ad6b6dfdb4d53629a770d0d76f7f9257baa1",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+        "reserve0": 661535549475940977631305,
+        "reserve1": 6647672590015662411678,
+        "totalSupply": 66284089946230686708596
+      },
+      {
+        "pair": "0x357375b96c37afefc1fe1e9a37c2ecafa7b74dac",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+        "reserve0": 16430026252636575895421,
+        "reserve1": 767485840,
+        "totalSupply": 3156732787813890
+      },
+      {
+        "pair": "0x08a63716cdbd618aa4b2ac98449bc0357806996f",
+        "token0": "0x2fdcb16a977921fadac3a9e03d18ada77b4aa3f5",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 607611286992215,
+        "reserve1": 12068583630864697346641,
+        "totalSupply": 2604406660989983590
+      },
+      {
+        "pair": "0xb1b7031a16c877e1469d6e207978f0936d66bea2",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xf530fea2dab1fb0290290457de2214df95017e6d",
+        "reserve0": 10286300673603451008,
+        "reserve1": 97465487243147358711875154,
+        "totalSupply": 31622776601683793319988
+      },
+      {
+        "pair": "0x3647d58d7ab7da3673646c09a987c3c7c438d1c0",
+        "token0": "0x2d03bece6747adc00e1a131bba1469c15fd11e03",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 3520138725295711291900,
+        "reserve1": 143410401086716045,
+        "totalSupply": 22360679774997896964
+      },
+      {
+        "pair": "0xb2ca3b71fa4581f2513c1ec54f4bc201cd0cb6bb",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xb34dd0e0625eb02f1bd7637ff8f6198f311fd1d6",
+        "reserve0": 900000000000000000,
+        "reserve1": 5000000000000000000000,
+        "totalSupply": 67082039324993690892
+      },
+      {
+        "pair": "0x1259df716a244e1b611e65bd75ca3b625e8bd3f4",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xe35945c4da90bcb96d5075ef805c04a23071784f",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x5dbc29561e758226b811ef6fe9aa4fa70e5438cf",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x766399f162a9806bdcf3a5e89825683ab0082382",
+        "reserve0": 4272227124623585539,
+        "reserve1": 985010787569330690,
+        "totalSupply": 2021542416190066685
+      },
+      {
+        "pair": "0x5188804c244afa118a860ebba75dfad3c2ccdd76",
+        "token0": "0x55b671994c1ac306a454b1421496210c2614d82a",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 1,
+        "reserve1": 1732050808,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0x62d34dacb7acb4071579c3e9f6dae3cce4d49899",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x8068e4c7dfdbf4a9e8d9a29431eeccf41e7ff509",
+        "reserve0": 113324602273319591,
+        "reserve1": 82232605913,
+        "totalSupply": 96500000001000
+      },
+      {
+        "pair": "0xa7bf970f13dd410cb250ea080ce9a4387a78e948",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xe0c41ff9a7032de445771e12c14868cbe061c993",
+        "reserve0": 114673464971887039,
+        "reserve1": 8743644153121674649,
+        "totalSupply": 1000000000000000000
+      },
+      {
+        "pair": "0x822e7bf96f249714347e8ddcb4d4d052c4a3fb5e",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xeb41df3b19a2fabd7051047eef888c3a11b0a348",
+        "reserve0": 89820897131120546,
+        "reserve1": 5010000000000000000000,
+        "totalSupply": 21213203435596425732
+      },
+      {
+        "pair": "0xca419ad965710a73e68a7a8ca3e0c4cb61e1597b",
+        "token0": "0x5617ea36c5da5dafab51a8634b02609459fee94f",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 534354288,
+        "reserve1": 601410044515248415,
+        "totalSupply": 881747843040
+      },
+      {
+        "pair": "0xfc90d4ddcb7faf538bfd29e4dd7141c04fc3eb32",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xe2c3e23f751db74739b7d4d9f89b81768b9e9927",
+        "reserve0": 14470821972963955870940,
+        "reserve1": 6592702581318350654226,
+        "totalSupply": 9721836103473906483128
+      },
+      {
+        "pair": "0x44633ecb203f3873ef2c60b81fd47f7de801edff",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x6b66fcb66dba37f99876a15303b759c73fc54ed0",
+        "reserve0": 8157484239517869469,
+        "reserve1": 4586196878366141666270,
+        "totalSupply": 66697083942166195430
+      },
+      {
+        "pair": "0x9e3e2024bdf4873065010e14c9f1e47a114bd4ba",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x611eb023edcca8f4ac40260d90a27ba7a7539db1",
+        "reserve0": 25959916401909633606,
+        "reserve1": 15465453774177653932,
+        "totalSupply": 19749348743158350376
+      },
+      {
+        "pair": "0x3c000093957b2d5400c78881d31478ab3582dd9e",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x7dea8217315af20c7ea0fac42bd2c14c4a4287e1",
+        "reserve0": 10469524853630660,
+        "reserve1": 4300000000000000000000,
+        "totalSupply": 6708203932499369089
+      },
+      {
+        "pair": "0x7ce2d23140ae8e32094be68ce8390a1afc87fbf1",
+        "token0": "0x2feeef193ea875c33c7d28e5e1157aac348fd6bb",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 4090577437140770586315,
+        "reserve1": 12230242022099282,
+        "totalSupply": 7071067811865475244
+      },
+      {
+        "pair": "0xe6f561a2516874e1fef9badd132d53f30f8d5947",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xbfb387ce38ca972889f216f01e4c9af3898f476b",
+        "reserve0": 10000000000000000,
+        "reserve1": 5000000000000000000000,
+        "totalSupply": 7071067811865475244
+      },
+      {
+        "pair": "0x80523212e85e7fd850c85cc804263ad421696d87",
+        "token0": "0x0001df70e9cdc0c1c6b24e2172b89b105c879ddc",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 6019520883879649617202,
+        "reserve1": 776550167983282128716448,
+        "totalSupply": 68191386719694820130333
+      },
+      {
+        "pair": "0x5d27f80e19cc1426832eb5a837685c9e8acaa3e4",
+        "token0": "0x58c8b94cea246d284a63c483ecd992d1ee15494e",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 2655297556979283138,
+        "reserve1": 3184841704655405,
+        "totalSupply": 4169245176801995
+      },
+      {
+        "pair": "0xcfcd17631a06816c2925e74bcb766ceac642bf82",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+        "reserve0": 101688891333948802423,
+        "reserve1": 2570659762308025,
+        "totalSupply": 502840869337220568
+      },
+      {
+        "pair": "0xe973711fecc41d6a2d88548dac37b43bbe65c1ed",
+        "token0": "0x0001df70e9cdc0c1c6b24e2172b89b105c879ddc",
+        "token1": "0x80523212e85e7fd850c85cc804263ad421696d87",
+        "reserve0": 56843762668851025738,
+        "reserve1": 473030508106175209654,
+        "totalSupply": 158477089724618678887
+      },
+      {
+        "pair": "0xa729236bc8f683667cdd551ffc8e4c168a7a9540",
+        "token0": "0x0001df70e9cdc0c1c6b24e2172b89b105c879ddc",
+        "token1": "0x611eb023edcca8f4ac40260d90a27ba7a7539db1",
+        "reserve0": 269328544393834868,
+        "reserve1": 20477174879768363603,
+        "totalSupply": 2341570396150202390
+      },
+      {
+        "pair": "0x803fe2636fa53cefd5e047b2e419607b62133656",
+        "token0": "0x2675d176a52a9eedf5d8ae28ee9ddf9090683642",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 8963419733750000498977,
+        "reserve1": 4813278714106063,
+        "totalSupply": 6480740698407860230
+      },
+      {
+        "pair": "0xa4cb8ba61b794ce2b68850c201b84814a1ffa33b",
+        "token0": "0x0001df70e9cdc0c1c6b24e2172b89b105c879ddc",
+        "token1": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+        "reserve0": 85251367,
+        "reserve1": 1,
+        "totalSupply": 1000
+      },
+      {
+        "pair": "0x2aa48abd0fc38a359d341ac6d368b932965e8073",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x69d41603ad1c4d63bc7f103a7051d7deade20c4c",
+        "reserve0": 33834692683127502,
+        "reserve1": 21034072916395764595644,
+        "totalSupply": 26267851073127394293
+      },
+      {
+        "pair": "0xdc6e9dbba4e661636486549100fc0fda3930264e",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x7f7be9fd8a2d36ebf55fac9a062aaa738c114be6",
+        "reserve0": 9635971471094147144810,
+        "reserve1": 23068046960372626686,
+        "totalSupply": 445514687105093493263
+      },
+      {
+        "pair": "0xffa2d2e9551138c21e9e5ac382a9ae6169da8c27",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x94d416b967f20f2b324427a677b678f8ccb3a527",
+        "reserve0": 9410568667594789731,
+        "reserve1": 7073832448138933373,
+        "totalSupply": 7722678719167665031
+      },
+      {
+        "pair": "0xd082c7cab24990643ea1936a14e67b3c9c456367",
+        "token0": "0x04a81d9a6c4475e1e5fb7586d871b3bc7b7be6bb",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 778625555721245455144932040,
+        "reserve1": 1246103092157917954,
+        "totalSupply": 30983866769659335081434
+      },
+      {
+        "pair": "0xb8f6e8b9d3f5d1a050ed91ee2c8a9f7260893e03",
+        "token0": "0x238d8d951aac0608dba71f4f835d479bda1bfb11",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 18087329623514912352808441,
+        "reserve1": 3051144823474957169,
+        "totalSupply": 7071067811865475244008
+      },
+      {
+        "pair": "0x28bbe58f4341a81bfc72d89850d2a81d265d99f4",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xfce860611540e6458608a0ac75c7afd31625f55e",
+        "reserve0": 3768249884695003176,
+        "reserve1": 6381290931114954285631181,
+        "totalSupply": 4886205071423015908947
+      },
+      {
+        "pair": "0x3fecec41c91c87fa15ca1c43ecb3f5488dc8e264",
+        "token0": "0x17c00923ce44f2748db6a14f979d55c497a267e4",
+        "token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "reserve0": 6075095027349945612033278,
+        "reserve1": 660580397267309824658,
+        "totalSupply": 60149664773051871385004
+      },
+      {
+        "pair": "0xfee2fc28b967d02008088ea21f6030a2021116cc",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0x80523212e85e7fd850c85cc804263ad421696d87",
+        "reserve0": 576572895369253919,
+        "reserve1": 25090496854074266,
+        "totalSupply": 119705994328553647
+      },
+      {
+        "pair": "0xe5f1463660cc2464f69c64a54b67f5957c95fcbd",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xf2f9889e797d2aaddc234f4f3027c62c28165af4",
+        "reserve0": 916531501985798042397564,
+        "reserve1": 82340729293153148145,
+        "totalSupply": 8614649337214751790874
+      },
+      {
+        "pair": "0xb0a7d88202eb8bf3c43d506b712b4e474eb9cda3",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xb062084affdf75b9b494d56b8417f1b981df790f",
+        "reserve0": 285067382856963747081452,
+        "reserve1": 60137563770540669564876308,
+        "totalSupply": 6470776425771242961868113
+      },
+      {
+        "pair": "0x507826e30aef1034bad2ef927f56a941f5f8b9bc",
+        "token0": "0xb062084affdf75b9b494d56b8417f1b981df790f",
+        "token1": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+        "reserve0": 4718806487137640655908,
+        "reserve1": 1304003,
+        "totalSupply": 78112611017683
+      },
+      {
+        "pair": "0x3a839ea0e3e7d97b713844d038ef7c4abbdca0d3",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xaca2d7d2b1a86fd7a355284bee6760536e157351",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0x9ae1773fcf688c52114b074a2f9fb6167be4b59c",
+        "token0": "0xcc57f84637b441127f2f74905b9d99821b47b20c",
+        "token1": "0xcc76fdcadd0fb0791dfbd7736ede43286f0f43b9",
+        "reserve0": 20272472562663496023,
+        "reserve1": 494933016973952545474,
+        "totalSupply": 100000000000000000000
+      },
+      {
+        "pair": "0x4f78c644ff2e3a2da62a469b70bab7c734fc7c26",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xc9d64df4062806ae726b79fe932d3c3b3b830e8b",
+        "reserve0": 818972983431095322,
+        "reserve1": 221012233917080447197,
+        "totalSupply": 13449472416070122736
+      },
+      {
+        "pair": "0xb91f9daeeef053e8bbcc69e4e63c964b30424aad",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xaf27e8cda55b420e6c0b24c2c5c62c13e42cf6db",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0xb51fbf360ad2292b84fe6b6a10df862de1ab6343",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      },
+      {
+        "pair": "0xf44c704c289a4ca301fbb49e44a3e28dbd3b6c4f",
+        "token0": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
+        "token1": "0xd933fafce8213ee00802b215b8ee08423a8af3a2",
+        "reserve0": 7498306844023725506,
+        "reserve1": 12881731816848,
+        "totalSupply": 9797958971132712
+      }
+    ],
+    "tokenMeta": {
+      "0x0001df70e9cdc0c1c6b24e2172b89b105c879ddc": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0x04a81d9a6c4475e1e5fb7586d871b3bc7b7be6bb": {
+        "symbol": "SHIB",
+        "decimals": 18
+      },
+      "0x17c00923ce44f2748db6a14f979d55c497a267e4": {
+        "symbol": "CROCRO",
+        "decimals": 18
+      },
+      "0x238d8d951aac0608dba71f4f835d479bda1bfb11": {
+        "symbol": "DOGE",
+        "decimals": 18
+      },
+      "0x2675d176a52a9eedf5d8ae28ee9ddf9090683642": {
+        "symbol": "JN",
+        "decimals": 18
+      },
+      "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
+        "symbol": "VVS",
+        "decimals": 18
+      },
+      "0x2fdcb16a977921fadac3a9e03d18ada77b4aa3f5": {
+        "symbol": "TENDIES",
+        "decimals": 9
+      },
+      "0x2feeef193ea875c33c7d28e5e1157aac348fd6bb": {
+        "symbol": "test2",
+        "decimals": 18
+      },
+      "0x55b671994c1ac306a454b1421496210c2614d82a": {
+        "symbol": "CROISSANT",
+        "decimals": 0
+      },
+      "0x5617ea36c5da5dafab51a8634b02609459fee94f": {
+        "symbol": "CROSHIBA",
+        "decimals": 4
+      },
+      "0x58c8b94cea246d284a63c483ecd992d1ee15494e": {
+        "symbol": "Swapp",
+        "decimals": 18
+      },
+      "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23": {
+        "symbol": "WCRO",
+        "decimals": 18
+      },
+      "0x611eb023edcca8f4ac40260d90a27ba7a7539db1": {
+        "symbol": "croPRISM",
+        "decimals": 18
+      },
+      "0x69d41603ad1c4d63bc7f103a7051d7deade20c4c": {
+        "symbol": "BELLE",
+        "decimals": 18
+      },
+      "0x6b66fcb66dba37f99876a15303b759c73fc54ed0": {
+        "symbol": "cHIBIKI",
+        "decimals": 18
+      },
+      "0x766399f162a9806bdcf3a5e89825683ab0082382": {
+        "symbol": "WASP",
+        "decimals": 9
+      },
+      "0x7dea8217315af20c7ea0fac42bd2c14c4a4287e1": {
+        "symbol": "CRODEX",
+        "decimals": 18
+      },
+      "0x7f7be9fd8a2d36ebf55fac9a062aaa738c114be6": {
+        "symbol": "CROVID",
+        "decimals": 4
+      },
+      "0x80523212e85e7fd850c85cc804263ad421696d87": {
+        "symbol": "EMP-LP",
+        "decimals": 18
+      },
+      "0x8068e4c7dfdbf4a9e8d9a29431eeccf41e7ff509": {
+        "symbol": "CROPEPE",
+        "decimals": 8
+      },
+      "0x94d416b967f20f2b324427a677b678f8ccb3a527": {
+        "symbol": "r1",
+        "decimals": 4
+      },
+      "0xaca2d7d2b1a86fd7a355284bee6760536e157351": {
+        "symbol": "DADDY",
+        "decimals": 4
+      },
+      "0xaf27e8cda55b420e6c0b24c2c5c62c13e42cf6db": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xb062084affdf75b9b494d56b8417f1b981df790f": {
+        "symbol": "upCRO",
+        "decimals": 18
+      },
+      "0xb34dd0e0625eb02f1bd7637ff8f6198f311fd1d6": {
+        "symbol": "test",
+        "decimals": 18
+      },
+      "0xbfb387ce38ca972889f216f01e4c9af3898f476b": {
+        "symbol": "test2",
+        "decimals": 18
+      },
+      "0xc21223249ca28397b4b6541dffaecc539bff0c59": {
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34": {
+        "symbol": "CRODEX",
+        "decimals": 18
+      },
+      "0xc9d64df4062806ae726b79fe932d3c3b3b830e8b": {
+        "symbol": "HOBBS",
+        "decimals": 18
+      },
+      "0xcc57f84637b441127f2f74905b9d99821b47b20c": {
+        "symbol": "DNA",
+        "decimals": 18
+      },
+      "0xcc76fdcadd0fb0791dfbd7736ede43286f0f43b9": {
+        "symbol": "DBOND",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "0xcf06467d408bdb6e2082268a9c5d7a986c39e9bc": {
+        "symbol": "SPLNTYDEV",
+        "decimals": 18
+      },
+      "0xd933fafce8213ee00802b215b8ee08423a8af3a2": {
+        "symbol": "BRIAR",
+        "decimals": 6
+      },
+      "0xe0c41ff9a7032de445771e12c14868cbe061c993": {
+        "symbol": "DxP",
+        "decimals": 18
+      },
+      "0xe2c3e23f751db74739b7d4d9f89b81768b9e9927": {
+        "symbol": "SHID",
+        "decimals": 18
+      },
+      "0xe35945c4da90bcb96d5075ef805c04a23071784f": {
+        "symbol": "test",
+        "decimals": 18
+      },
+      "0xe44fd7fcb2b1581822d0c862b68222998a0c299a": {
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      "0xeb41df3b19a2fabd7051047eef888c3a11b0a348": {
+        "symbol": "test",
+        "decimals": 18
+      },
+      "0xf2f9889e797d2aaddc234f4f3027c62c28165af4": {
+        "symbol": "ROOT",
+        "decimals": 18
+      },
+      "0xf530fea2dab1fb0290290457de2214df95017e6d": {
+        "symbol": "raca",
+        "decimals": 18
+      },
+      "0xfce860611540e6458608a0ac75c7afd31625f55e": {
+        "symbol": "MOON",
+        "decimals": 18
+      }
+    }
+  },
+  "kava": {
+    "factory": "0x06530550A48F990360DFD642d2132354A144F31d",
+    "length": 3,
+    "pairs": [
+      {
+        "pair": "0x0a62c64fe8814fa0ded634b3e02bfb43c5acd273",
+        "token0": "0xb2855a6daeebdb72b0176a479a983066ae9775a6",
+        "token1": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+        "reserve0": 1141980109168454428354,
+        "reserve1": 450060536670435485778,
+        "totalSupply": 716884809977245700186
+      },
+      {
+        "pair": "0xd5d6f994c2e0a11d548231c155a55b70d6a5d6ca",
+        "token0": "0x1acd7945863ff7677ab241736adba6c31098d56d",
+        "token1": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+        "reserve0": 158670734153898776907545,
+        "reserve1": 21100574916947472,
+        "totalSupply": 57735024032211158333
+      },
+      {
+        "pair": "0x7201e49e96d903ffed8e6db353c30c993f6af910",
+        "token0": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b",
+        "token1": "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6",
+        "reserve0": 0,
+        "reserve1": 0,
+        "totalSupply": 0
+      }
+    ],
+    "tokenMeta": {
+      "0x1acd7945863ff7677ab241736adba6c31098d56d": {
+        "symbol": "t9",
+        "decimals": 18
+      },
+      "0xb2855a6daeebdb72b0176a479a983066ae9775a6": {
+        "symbol": "eUSDC",
+        "decimals": 18
+      },
+      "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b": {
+        "symbol": "WKAVA",
+        "decimals": 18
+      },
+      "0xcc99842e090210ed7e5930b29f70ec6f8fc660a6": {
+        "symbol": "EMPIRE",
+        "decimals": 18
+      }
+    }
+  },
+  "ethereum": {
+    "factory": "0xd674b01E778CF43D3E6544985F893355F46A74A5",
+    "length": 5,
+    "pairs": [
+      {
+        "pair": "0x163b890f4892d593945579028ec44ef0f20a4633",
+        "token0": "0x2302f393690487a4fc5927bbef63ff113e0c479d",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "reserve0": 7137110429402809130604,
+        "reserve1": 14608445854298465437,
+        "totalSupply": 321656111347842503675
+      },
+      {
+        "pair": "0x84874b8be9966839f95fa6c343b0fa5dcfc94096",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xd46df541148932690b81092f600f35208afd4325",
+        "reserve0": 31734943838042396,
+        "reserve1": 610082020296205194983,
+        "totalSupply": 4360409065555359305
+      },
+      {
+        "pair": "0x8380f233ff5553f536d9e204de735ba8ca10e556",
+        "token0": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "reserve0": 324344113049076898956,
+        "reserve1": 171435826991805285,
+        "totalSupply": 7314369419163896728
+      },
+      {
+        "pair": "0x022d0c35598f4ec5ce30e5bb23c31959e93412e1",
+        "token0": "0x78ab567e63f46cb923c5b3be821e26b91acf84aa",
+        "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "reserve0": 1491886139510348145792745805,
+        "reserve1": 1407804611875522064,
+        "totalSupply": 45618527913304323369109
+      },
+      {
+        "pair": "0x9de898825f7f851694e4c93d7f233b35787c99a7",
+        "token0": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "token1": "0xd5e7d22362bcc9881d06512d3189eae79dd98d70",
+        "reserve0": 345287414340679211,
+        "reserve1": 19999969582786970514179,
+        "totalSupply": 82807850454149032419
+      }
+    ],
+    "tokenMeta": {
+      "0x2302f393690487a4fc5927bbef63ff113e0c479d": {
+        "symbol": "ROOTDEX",
+        "decimals": 18
+      },
+      "0x6b175474e89094c44da98b954eedeac495271d0f": {
+        "symbol": "DAI",
+        "decimals": 18
+      },
+      "0x78ab567e63f46cb923c5b3be821e26b91acf84aa": {
+        "symbol": "EMTI",
+        "decimals": 18
+      },
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      "0xd46df541148932690b81092f600f35208afd4325": {
+        "symbol": "PRISM",
+        "decimals": 18
+      },
+      "0xd5e7d22362bcc9881d06512d3189eae79dd98d70": {
+        "symbol": "MIYAZAKI",
+        "decimals": 9
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "contractName": "EmpireFactory",
+  "fullyQualifiedName": "/contracts/dex/EmpireFactory.sol:EmpireFactory",
+  "compiler": "solc",
+  "compilerVersion": "0.6.8+commit.0bbfe453",
+  "language": "Solidity",
+  "compilerSettings": {
+    "metadata": {
+      "bytecodeHash": "ipfs"
+    },
+    "libraries": {},
+    "optimizer": {
+      "runs": 200,
+      "enabled": true
+    },
+    "evmVersion": "istanbul",
+    "remappings": []
+  },
+  "match": "match",
+  "creationMatch": "match",
+  "runtimeMatch": "match",
+  "verifiedAt": "2025-07-09T12:22:19Z",
+  "chainId": "56",
+  "address": "0x06530550A48F990360DFD642d2132354A144F31d",
+  "deployment": {
+    "transactionHash": "0x4f91189788b32158b29cbcb3d23d1f76a494ed1e69b394546fbcdd78baaa1e41",
+    "blockNumber": "9761362",
+    "transactionIndex": "258",
+    "deployer": "0x9Dc2E3A5Fd6f78c0d1Bb4F3503C3F85a6c3760CC"
+  },
+  "sourceVerifiedVia": "Sourcify v2 API (sourcify.dev/server)"
+}

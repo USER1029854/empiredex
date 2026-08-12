@@ -1,0 +1,68 @@
+{
+  "EMPIRE/WBNB-BSC": {
+    "chain": "bsc",
+    "token": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+    "pair": "0xf3114cb351f38f8e8ff17f8313ff91cec4ff196f",
+    "self_bal_wei": 1302688776138959171,
+    "lp_held_by_token_wei": 11621268975913194967,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0xf8f595b5fd17d4c64f5dfe5ed4c32b8e15e198fd",
+    "token_totalSupply_wei": 9971783079704186619306
+  },
+  "eADEX/WAVAX-AVAX": {
+    "chain": "avax",
+    "token": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+    "pair": "0x80832376db4e414c88629c54923aecb9855346c0",
+    "self_bal_wei": 608387987573351744,
+    "lp_held_by_token_wei": 3929489422890926580,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0xf8f595b5fd17d4c64f5dfe5ed4c32b8e15e198fd",
+    "token_totalSupply_wei": 9987103518908500723555
+  },
+  "XDEX/WXDAI-XDAI": {
+    "chain": "xdai",
+    "token": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+    "pair": "0xf6e0eeefb7acb6d5557d617da1e24873997ab3e9",
+    "self_bal_wei": 230862167590542860,
+    "lp_held_by_token_wei": 8648661300995425529,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0xf8f595b5fd17d4c64f5dfe5ed4c32b8e15e198fd",
+    "token_totalSupply_wei": 9991982725808319450048
+  },
+  "CRODEX/WCRO-CRONOS": {
+    "chain": "cronos",
+    "token": "0xc83859c413a6ba5ca1620cd876c7e33a232c1c34",
+    "pair": "0xc8c0ad6b6dfdb4d53629a770d0d76f7f9257baa1",
+    "self_bal_wei": 247902906335224196574,
+    "lp_held_by_token_wei": 65728074165824007115393,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0xf8f595b5fd17d4c64f5dfe5ed4c32b8e15e198fd",
+    "token_totalSupply_wei": 10000000000000000000000
+  },
+  "EMPIRE(alt)/WCRO-CRONOS": {
+    "chain": "cronos",
+    "token": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
+    "pair": "0x80523212e85e7fd850c85cc804263ad421696d87",
+    "self_bal_wei": 2700997477003434380,
+    "lp_held_by_token_wei": 715963056463397341561,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0xf8f595b5fd17d4c64f5dfe5ed4c32b8e15e198fd",
+    "token_totalSupply_wei": 9994201949389806377576
+  },
+  "ROOTDEX/WETH-ETH": {
+    "chain": "ethereum",
+    "token": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+    "pair": "0x163b890f4892d593945579028ec44ef0f20a4633",
+    "self_bal_wei": 60709724985858742262,
+    "lp_held_by_token_wei": 53914577178374649232,
+    "lp_held_by_escrow_a_wei": 0,
+    "lp_held_by_escrow_b_wei": 0,
+    "owner": "0x2c543c94aebd7b40d7ad7e32cd1fbe67b3ded453",
+    "token_totalSupply_wei": 9991460526010785979626
+  }
+}

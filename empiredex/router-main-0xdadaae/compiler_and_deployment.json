@@ -1,0 +1,29 @@
+{
+  "contractName": "EmpireRouter",
+  "fullyQualifiedName": "/contracts/periphery/EmpireRouter.sol:EmpireRouter",
+  "compiler": "solc",
+  "compilerVersion": "0.6.8+commit.0bbfe453",
+  "language": "Solidity",
+  "compilerSettings": {
+    "libraries": {},
+    "optimizer": {
+      "runs": 200,
+      "enabled": true
+    },
+    "evmVersion": "istanbul",
+    "remappings": []
+  },
+  "match": "match",
+  "creationMatch": "match",
+  "runtimeMatch": "match",
+  "verifiedAt": "2026-05-21T13:35:43Z",
+  "chainId": "56",
+  "address": "0xdADaae6cDFE4FA3c35d54811087b3bC3Cd60F348",
+  "deployment": {
+    "transactionHash": "0xd56d2e3cf416019f50e68e2a4ebd59782e9ca397bc9dff41c529fcd861a3b7ef",
+    "blockNumber": "9761384",
+    "transactionIndex": "172",
+    "deployer": "0x9Dc2E3A5Fd6f78c0d1Bb4F3503C3F85a6c3760CC"
+  },
+  "sourceVerifiedVia": "Sourcify v2 API (sourcify.dev/server)"
+}

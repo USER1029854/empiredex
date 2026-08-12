@@ -1,0 +1,149 @@
+{
+  "bsc:0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
+    "decimals": 18,
+    "symbol": "CAKE",
+    "price": 1.4388541056004538,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "bsc:0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
+    "decimals": 18,
+    "symbol": "WETH",
+    "price": 1876.6490554577501,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "bsc:0x55d398326f99059ff775485246999027b3197955": {
+    "decimals": 18,
+    "symbol": "USDT",
+    "price": 0.9992212830858088,
+    "timestamp": 1786574380,
+    "confidence": 0.99
+  },
+  "bsc:0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c": {
+    "decimals": 18,
+    "symbol": "BTCB",
+    "price": 63518.87753663958,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "bsc:0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d": {
+    "decimals": 18,
+    "symbol": "USDC",
+    "price": 1.0074354082194703,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "bsc:0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
+    "decimals": 18,
+    "symbol": "WBNB",
+    "price": 608.8046057716448,
+    "timestamp": 1786574380,
+    "confidence": 0.99
+  },
+  "bsc:0xe9e7cea3dedca5984780bafc599bd69add087d56": {
+    "decimals": 18,
+    "symbol": "BUSD",
+    "price": 1.0051772888115111,
+    "timestamp": 1786573300,
+    "confidence": 0.99
+  },
+  "fantom:0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83": {
+    "decimals": 18,
+    "symbol": "WFTM",
+    "price": 0.028218085125829278,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "avax:0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664": {
+    "decimals": 6,
+    "symbol": "USDC",
+    "price": 0.9986845496784743,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "avax:0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7": {
+    "decimals": 18,
+    "symbol": "WAVAX",
+    "price": 6.318525801486927,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "polygon:0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270": {
+    "decimals": 18,
+    "symbol": "WMATIC",
+    "price": 0.07440042005907341,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "polygon:0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+    "decimals": 6,
+    "symbol": "USDC",
+    "price": 0.9994547288188993,
+    "timestamp": 1786573900,
+    "confidence": 0.99
+  },
+  "xdai:0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
+    "decimals": 6,
+    "symbol": "USDC",
+    "price": 0.9993248806795189,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "xdai:0xe91d153e0b41518a2ce8dd3d7944fa863463a97d": {
+    "decimals": 18,
+    "symbol": "WXDAI",
+    "price": 0.9985076326144707,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "cronos:0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
+    "decimals": 18,
+    "symbol": "VVS",
+    "price": 8.074673353824378e-07,
+    "timestamp": 1786573300,
+    "confidence": 0.99
+  },
+  "cronos:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23": {
+    "decimals": 18,
+    "symbol": "WCRO",
+    "price": 0.0466390157073946,
+    "timestamp": 1786573300,
+    "confidence": 0.99
+  },
+  "cronos:0xc21223249ca28397b4b6541dffaecc539bff0c59": {
+    "decimals": 6,
+    "symbol": "USDC",
+    "price": 1.00101561946523,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "cronos:0xe44fd7fcb2b1581822d0c862b68222998a0c299a": {
+    "decimals": 18,
+    "symbol": "weth",
+    "price": 1877.0977902454003,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "kava:0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b": {
+    "decimals": 18,
+    "symbol": "WKAVA",
+    "price": 0.04030797635775,
+    "timestamp": 1786573310,
+    "confidence": 0.99
+  },
+  "ethereum:0x6b175474e89094c44da98b954eedeac495271d0f": {
+    "decimals": 18,
+    "symbol": "DAI",
+    "price": 0.9999370169236013,
+    "timestamp": 1786574380,
+    "confidence": 0.99
+  },
+  "ethereum:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+    "decimals": 18,
+    "symbol": "WETH",
+    "price": 1877.6534131604294,
+    "timestamp": 1786574380,
+    "confidence": 0.99
+  }
+}
